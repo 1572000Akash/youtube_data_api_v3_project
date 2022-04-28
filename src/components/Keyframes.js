@@ -167,11 +167,7 @@ function Content(prop) {
                 </div>
             }
 
-
-
-            {/* when true then call video with time master */}
-
-
+            {/* when true then call video with time latest feature */}
 
 
             {
