@@ -169,7 +169,7 @@ function Content(prop) {
 
 
 
-            {/* when true then call video with time */}
+            {/* when true then call video with time master */}
 
 
 
